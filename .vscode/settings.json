@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/pipbbaale/Documents/Watchlists/virtual/bin/python3"
+    "python.pythonPath": "/Users/pipbbaale/Documents/Watchlists/virtual/bin/python3",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
